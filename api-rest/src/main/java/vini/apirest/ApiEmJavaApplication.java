@@ -9,5 +9,4 @@ public class ApiEmJavaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ApiEmJavaApplication.class, args);
 	}
-
 }
